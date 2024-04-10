@@ -19,3 +19,4 @@ En terme de Webscraping nous avons utilisé du Python pour avoir un résultat so
 ### Dépannage :
 
 Le fond d'ecran est une petite vidéo, si jamais la vidéo ne se lance pas revener sur Flutter et re-enregistrer votre code (Ctrl + S).
+Veillez à afficher votre page web en plein ecran (f11)

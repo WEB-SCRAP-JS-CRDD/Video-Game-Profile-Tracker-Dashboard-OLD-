@@ -1,3 +1,6 @@
+### NEW VERSION OF THE PROJECT CAN BE FOUND HERE :
+**New Link:** [Github repo link](https://github.com/WEB-SCRAP-JS-CRDD/Video-Game-Profile-Tracker-Dashboard)
+
 # Bienvenue sur LoL Tracker! 👋
 
 Nous sommes Jérémie et Cyrain deux élèves en école d'ingénieur. Voici un simple dashboard que nous avons réalisé dans le cadre de notre 2eme semestre de 4eme année.
@@ -20,3 +23,4 @@ En terme de Webscraping nous avons utilisé du Python pour avoir un résultat so
 
 Le fond d'ecran est une petite vidéo, si jamais la vidéo ne se lance pas revener sur Flutter et re-enregistrer votre code (Ctrl + S).
 Veillez à afficher votre page web en plein ecran (f11)
+
